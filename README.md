@@ -1,4 +1,4 @@
-# TitanicDemo
+# Titanic Survival Prediction
 
 ### This notebook has 4 parts:
 
