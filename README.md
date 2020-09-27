@@ -1,12 +1,15 @@
-# Titanic Survival Prediction
+### Readme, please
 
-### This notebook has 4 parts:
+- This is a personal project by Ronald Luo. Feedback is welcome.
+- This demo aims to give you a general understanding of the machine learning modeling process. Machine learning is big, it is almost impossible to cover everything in a single notebook. But the ideas behind the process remain.
+- In the real world, things are flexible. That means the process will be likely different from this demo. Some of the sessions may be skipped, while some will be far more deeper and comprehensive.
+- Copy and paste is okay, but DON'T do it if you really want to improve. Take the class, write the code, take note of the lesson, any of these will benefit you more than Ctrl C + V.
+- The code in this demo may not be the most elegant but it can do the job.
 
-#### 1.Statistical analysis of the dataset. We will analyze some basic information of the Titanic dataset (mean, standard deviation, correlation etc.). This will give us an understanding of what are some of the important features of our prediction model.
-#### 2.Visualization. We will use visualization libraries to directly show what is going in in this dataset. Numbers are hard to understand, but not graphs :p
-#### 3.Data cleaning and transformation. The dataset is not clean; it has lots of null values, redundant columns and data points that make no sense. Therefore, to have the best accuracy of our prediction model, we need to handle this properly.
-#### 4.Model building. We will use sklearn to test different algos, decide the best one, and further improve it.
+- Some useful courses I took, and you should definitely take a look at it:
+   - *Coursera: Applied Machine Learning by UM*
+   - *Coursera: Python for Statistic by UM*
+   - *Khan Academy: statistic and probability*
+- A book your may want to read as well:
+  - *Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow*
 
-*Note: Until the date below, I am still updating this documentation and the code. Let me know if you have any ideas regrading how to improve this model. Cheers.*
-
-Spet. 14, 2020, Ronald Luo
