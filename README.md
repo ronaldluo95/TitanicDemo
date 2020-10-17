@@ -2,7 +2,7 @@
 
 - This is a personal project by Ronald Luo. Feedback is welcome.
 - This demo aims to cover a general understanding of the machine learning modeling process. 
-- In the real world, things are flexible. That means the process will be likely different from this demo. Some of the sessions may be skipped, while some will be far more deeper and comprehensive.
+- In the real world, things are flexible.
 - The code in this demo may not be the most elegant but it can do the job.
 
 - Some useful courses I took:
